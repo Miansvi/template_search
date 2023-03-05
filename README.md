@@ -1,10 +1,12 @@
 DataSetManager выполняет функции загрузки и преобразавания датасетов.
 Возвращает:
-
-records - преобразованный датасет¶
+<br>
+records - преобразованный датасет
+<br>
 products - уникальный список товаров
+<br>
 transactions - транзакции
-
+<br>
 Датасеты:
 1) Groceries_dataset.csv
 2) groceries - groceries.csv
