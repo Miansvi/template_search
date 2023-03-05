@@ -14,4 +14,6 @@ transactions - транзакции
 2) groceries - groceries.csv
 3) march_trs_data_clean.csv
 <br>
-FrequencySearch - основной блокнот
+FrequencySearch - основной блокнот для задачи поиска частых наборов
+<br>
+Rules - основной блокнот для задачи поиска ассоциативных правил
